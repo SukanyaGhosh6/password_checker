@@ -42,7 +42,7 @@ You’ll need:
 
 1. **Clone or download the repo**:
    ```bash
-   git clone https://github.com/yourusername/password-strength-checker.git
+   git clone https://github.com/SukanyaGhosh6/password-strength-checker.git
    ```
    
 2. **Navigate to the project folder**:
